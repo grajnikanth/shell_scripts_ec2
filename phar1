@@ -1,0 +1,30 @@
+{
+    "connection_id": "7c44a08e-a161-4b86-aec4-afa699400039",
+    "comment": "Send me my CVS LMS Credential",
+    "credential_preview": {
+      "@type": "issue-credential/2.0/credential-preview",
+      "attributes": [
+        {
+          "name": "firstname", 
+          "value": "John"
+        },
+        {
+          "name": "lastname", 
+          "value": "Smith"
+        },
+        {
+            "name": "coursename",
+            "value": "Pharmacy-101"
+        },
+        {
+            "name": "age",
+            "value": "26"
+        }
+      ]
+    },
+    "filter": {
+      "indy": {
+           "cred_def_id": "77ReKtuPSxz98yMw3HoRST:3:CL:151185:CVS_LMS_course"
+       }
+    }
+}

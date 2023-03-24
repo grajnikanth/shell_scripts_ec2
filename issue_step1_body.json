@@ -1,0 +1,30 @@
+{
+    "comment": "Credential_3",
+    "connection_id": "f3ccd17b-7cc5-434e-b96e-8ae88cd10355",
+    "credential_preview": {
+      "@type": "issue-credential/2.0/credential-preview",
+      "attributes": [
+        {
+          "name": "firstname",
+          "value": "Eric"
+        },
+        {
+          "name": "lastname",
+          "value": "Smith"
+        },
+        {
+            "name": "coursename",
+            "value": "Pharmacy-301"
+        },
+        {
+            "name": "age",
+            "value": "21"
+        }
+      ]
+    },
+    "filter": {
+      "indy": {
+           "cred_def_id": "77ReKtuPSxz98yMw3HoRST:3:CL:149942:CVS_LMS_course"
+       }
+    }
+}

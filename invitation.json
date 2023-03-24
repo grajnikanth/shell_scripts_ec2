@@ -1,0 +1,9 @@
+{
+        "@type": "did:sov:BzCbsNYhMrjHiqZDTUASHg;spec/connections/1.0/invitation",
+        "@id": "70db45d7-8597-4e99-9365-ed7753ad4b26",
+        "serviceEndpoint": "http://localhost:8020/",
+        "label": "CVS",
+        "recipientKeys": [
+            "G9P9i1x9KBjZMnvC8kkzUbEkCMZHKcLZDBxDBKrZwWAt"
+        ]
+    }

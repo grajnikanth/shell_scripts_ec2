@@ -1,0 +1,11 @@
+{
+  "requested_attributes": {
+    "all_attributes": {
+      "cred_id": "credential_4",
+      "revealed": true
+    }
+  },
+  "requested_predicates": {},
+  "self_attested_attributes": {},
+  "trace": false
+}
